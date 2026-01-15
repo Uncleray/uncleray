@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Ray
 
-ICT System Engineer using GitHub mainly as a **private workspace** — versioning dotfiles, testing scripts, and occasionally experimenting with code.
+ICT System Engineer using Gitea & GitHub mainly as a **private workspace** — versioning dotfiles, testing scripts, and occasionally experimenting with code.
 
 ## 🧰 Tools I Work With
 
