@@ -19,8 +19,8 @@ ICT System Engineer using Forgejo & GitHub mainly as a **private workspace** —
 
 ## 💻 Personal Setup
 
-Currently running **CachyOS** with **Hyprland**, but I distro-hop frequently — mostly for curiosity and tuning workflows. Tiling WMs, custom configs, and broken packages are part of the fun.
+Currently running **Fedora Kinoite**, but I distro-hop frequently — mostly for curiosity and tuning workflows. Immutable systems, custom configs, and the occasional layered package are part of the fun.
 
 ---
 
-And yes, this was written by ChatGPT because I'm a lazy person.
+And yes, this was written by Claude because I'm a lazy person.
